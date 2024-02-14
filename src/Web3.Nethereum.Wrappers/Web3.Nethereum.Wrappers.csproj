@@ -4,15 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>Nethereum.Web3.Wrappers</PackageId>
+    <PackageId>Web3.Nethereum.Wrappers</PackageId>
     <Title>A library with mockable classes from `Nethereum.Web3` library</Title>
     <Version>1.0.0</Version>
     <Authors>ArdenHide</Authors>
     <Company>ArdenHide</Company>
-    <Product>Nethereum.Web3.Wrappers</Product>
+    <Product>Web3.Nethereum.Wrappers</Product>
     <Description>A library with mockable classes from `Nethereum.Web3` library</Description>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/ArdenHide/Nethereum.Web3.Wrappers</RepositoryUrl>
+    <RepositoryUrl>https://github.com/ArdenHide/Web3.Nethereum.Wrappers</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
